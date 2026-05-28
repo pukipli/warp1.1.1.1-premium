@@ -19,11 +19,11 @@ Unduh Aplikasinya Dibawah Ini
 
 👇👇
 
-[![termux](https://img.shields.io/badge/warp-premium-83%2B-yellow.svg?style=flat)](https://sfile.co/0P4t24GCcU9)
+[![termux](https://img.shields.io/badge/warp_premium-83%2B-yellow.svg?style=flat)](https://sfile.co/0P4t24GCcU9)
 
 [![Android](https://img.shields.io/badge/Android-15-yellow.svg?style=flat)](https://developer.android.com/about/versions/15?hl=id)
 
-# Social Media
+<h1 align="center">Social Media</h1>
 
 <h2 align="center">
 
