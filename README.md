@@ -25,6 +25,7 @@ Unduh Aplikasinya Dibawah Ini
 
 <h1 align="center">Social Media</h1>
 
+<h2 align="center">
 [![shopee](https://img.shields.io/badge/shopee-200%2B-yellow.svg?style=flat)](https://shopee.co.id/infinixnote40bjm)
 
 [![Youtube shopee_banjarmasin](https://img.shields.io/badge/YouTube-200%2B-yellow.svg?style=flat)](https://www.youtube.com/@shopee_banjarmasin)
