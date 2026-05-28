@@ -11,9 +11,7 @@
 </p>
 
 <img width="1080" height="1070" alt="Image" src="https://github.com/user-attachments/assets/3f62219f-dd1e-4f94-89f1-8131cf882175" />
-
 <h2 align="center">
-  
 [![Powered By:shopeebjm](https://img.shields.io/badge/PoweredBy:shopeebjm-7%2B-blue.svg?style=flat)](http://linktr.ee/kiplymacho)
 
 <h1 align="center">Downloads</h1>
